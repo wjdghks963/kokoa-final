@@ -1,3 +1,3 @@
-# Kokoa Clone 2020
+# Kokoa Final
 
-First Clone Coding
+HTML, CSS
